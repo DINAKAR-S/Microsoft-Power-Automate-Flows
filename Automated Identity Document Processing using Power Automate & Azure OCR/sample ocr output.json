@@ -1,0 +1,19 @@
+{
+  "documentType": "Passport",
+  "extractedData": {
+    "fullName": "John Michael Doe",
+    "firstName": "John",
+    "middleName": "Michael",
+    "lastName": "Doe",
+    "documentNumber": "P1234567",
+    "dateOfBirth": "1990-04-15",
+    "expiryDate": "2030-04-14",
+    "nationality": "Sample Country"
+  },
+  "processingMetadata": {
+    "ocrEngine": "Azure Document Intelligence",
+    "confidenceScore": 0.94,
+    "processedAt": "2025-01-18T10:25:30Z",
+    "status": "SUCCESS"
+  }
+}
