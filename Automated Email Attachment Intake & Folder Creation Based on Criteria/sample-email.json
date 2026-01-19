@@ -1,0 +1,15 @@
+{
+  "emailSubject": "Deal Documents Submission",
+  "sender": "client@example.com",
+  "dealName": "DEAL-10245",
+  "attachments": [
+    {
+      "fileName": "passport.pdf",
+      "fileType": "pdf"
+    },
+    {
+      "fileName": "license.jpg",
+      "fileType": "image"
+    }
+  ]
+}
