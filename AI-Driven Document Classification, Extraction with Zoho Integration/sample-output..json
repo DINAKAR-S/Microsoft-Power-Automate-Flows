@@ -1,0 +1,24 @@
+{
+  "document_type": "ACDE",
+  "fields": {
+    "Borrower name(s)": "John Doe",
+    "Loan amount": "500000",
+    "Interest rate": "6.25%",
+    "Loan term": "30 years",
+    "Payment method": "Monthly",
+    "Lending entity": "Sample Bank"
+  }
+}
+
+{
+  "data": {
+    "Borrower_names": "John Doe",
+    "Loan_amount_String": "500000",
+    "Interest_rate": "6.25%",
+    "Loan_term": "30 years",
+    "Payment_Method": "Monthly",
+    "Lending_Entity": "Sample Bank",
+    "Deal_Name1": "DEAL-10245",
+    "Deal_ID": "29112000000070031"
+  }
+}
