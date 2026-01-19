@@ -1,0 +1,13 @@
+{
+  "document_type": "PASS",
+  "document_name": "Passport",
+  "extracted_fields": {
+    "first_name": "John",
+    "middle_name": "Michael",
+    "last_name": "Doe",
+    "passport_number": "P1234567",
+    "date_of_birth": "1990-04-15",
+    "expiry_date": "2030-04-14"
+  },
+  "confidence": 0.95
+}
