@@ -7,8 +7,6 @@ This project demonstrates an enterprise-grade document automation workflow that 
 
 The solution uses Power Automate integrated with Azure Document Intelligence to extract structured information from uploaded documents, store the extracted data in Google Sheets, and notify users via Email and Microsoft Teams.
 
-This project is designed as a portfolio-safe representation of real-world automation work.
-
 ---
 
 ## Business Problem
@@ -51,6 +49,7 @@ Refer to the screenshots folder for the complete Power Automate flow.
 ## Technology Stack
 - Power Automate
 - Azure Document Intelligence (Prebuilt / Custom Models)
+  - Check this Out for more info [Azure Document Intelligence](https://docs.azure.cn/en-us/ai-services/document-intelligence/studio-overview?view=doc-intel-4.0.0&tabs=di-studio)
 - Google Sheets
 - Microsoft Teams
 - Outlook Email
